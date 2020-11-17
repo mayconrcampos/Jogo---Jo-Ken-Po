@@ -1,2 +1,4 @@
 # Jogo-Jo-Ken-Po
- Joguinho Jo Ken Po em JavaScript
+ Exercício - Joguinho Jo Ken Po em JavaScript
+ 
+  Jogar - https://mayconrcampos.github.io/Jogo-Jo-Ken-Po/
